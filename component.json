@@ -1,0 +1,11 @@
+{
+  "name": "utils-layout",
+  "repo": "atomic-css/utils-layout",
+  "description": "Utilities for layout-related CSS",
+  "version": "1.0.0",
+  "styles": [
+    "layout.css"
+  ],
+  "author": "Lukáš Mladý",
+  "license": "MIT"
+}

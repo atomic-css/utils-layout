@@ -1,0 +1,19 @@
+{
+  "name": "atomic-css-utils-layout",
+  "version": "1.0.0",
+  "homepage": "https://github.com/atomic-css/utils-layout",
+  "authors": [
+    "Lukáš Mladý",
+    "Nicolas Gallagher"
+  ],
+  "description": "Utilities for layout-related CSS",
+  "main": [
+    "layout.css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".*",
+    "CHANGELOG.md",
+    "component.json"
+  ]
+}
